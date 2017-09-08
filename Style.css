@@ -1,64 +1,81 @@
-
-/*/ {  border:1px solid black;
-	margin:0;
-	padding:0;
-	}
-/*/
-
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
+body{
+	font-style: Arial;
 }
 
-li {
-    float: left;
+#left{
+	width: 200px;
+	float: left;
+	background-color: grey;
 }
 
+#Waarom{
+	width: 600px;
+	margin: 0 auto;
+}
+
+#motivatie{
+	width: 600px;
+	margin: 0 auto;
+}
+
+#wijze{
+	width: 600px;
+	margin: 0 auto;
+}
+
+#elkaar{
+	width: 600px;
+	margin: 0 auto;
+}
+
+#Ontwikkeling{
+	width: 600px;
+	margin: 0 auto;
+}
+
+#welkom{
+	width: 600px;
+	margin: 0 auto;
+}
+
+#me{
+	width: 600px;
+	margin: 0 auto;
+}
+
+#waarom{
+	width: 600px;
+	margin: 0 auto;
+}
+
+#links{
+	width: 200px;
+	float: left;
+	background-color: grey;
+}
+
+#contact{
+	width: 600px;
+	margin: 0 auto;
+}
+
+#foto{
+	float: right;
+	
+}
 li a {
-    display: block;
-    padding: 8px;
-	background-color: #dddddd;
-	
-	}
-
-
-
-
-	
-
-
-body {
-background-color: grey;
-color: black;
-font-family: 'Playfair Display', serif;
-
+	display: block;
+	color: black;
+	text-decoration: none;
 }
-span {
-	color: white
-}
-span
-{
-	font-size: 120%;
+
+li a:hover {
+	background-color: #F2F2F2;
 }
 
 ul {
-	font-size: 120%;
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
 }
-
-/*/ { 
-		height:100px; 
-		width:180px; 
-		margin-left:50%;
-		margin-top:10%;
-		padding:10px;
-		border-color:red;
-		border-style:solid;
-		border-width:10px;
-}
-/*/
-
-
-
-
